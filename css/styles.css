@@ -38,6 +38,10 @@ a {
   font-size: 65px;
 }
 
+.data{
+  font-size: 17px;
+}
+
 .infos {
   display: flex;
   justify-content: space-between;
