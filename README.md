@@ -1,2 +1,2 @@
 # NewsWorld
-<p>site e desenvolvimento</p>
+<p>--Site em desenvolvimento</p>
